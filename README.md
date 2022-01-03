@@ -38,4 +38,12 @@ python -m atari_py.import_roms rars
 You can also download them yourself from [Atari ROMS](http://www.atarimania.com/rom_collection_archive_atari_2600_roms.html)
 
 
+## CarRacing visual example 
+
+#### Random agent
+<img src="./res/dummy_example.gif"/>
+
+#### Trained agent
+<img src="./res/trained_300k.gif"/>
+
 ### All further instruction are in corresponding IPython notebooks
